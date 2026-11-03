@@ -1,0 +1,3 @@
+Pillow>=10
+skoolkit>=9
+

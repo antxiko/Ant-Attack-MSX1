@@ -1,0 +1,26 @@
+; TheNestruo HUD font, generated from tipos_hud_todos_1x.png
+font_header_digits:
+ db 03Ch,066h,06Eh,076h,066h,066h,03Ch,000h
+ db 018h,038h,018h,018h,018h,018h,03Ch,000h
+ db 03Ch,066h,006h,00Ch,018h,032h,07Eh,000h
+ db 03Ch,066h,006h,01Ch,006h,066h,03Ch,000h
+ db 01Ch,03Ch,06Ch,0CCh,0FEh,00Ch,01Eh,000h
+ db 07Eh,062h,060h,07Ch,006h,066h,03Ch,000h
+ db 03Ch,066h,060h,07Ch,066h,066h,03Ch,000h
+ db 07Eh,046h,00Ch,00Ch,018h,018h,018h,000h
+ db 03Ch,066h,066h,03Ch,066h,066h,03Ch,000h
+ db 03Ch,066h,066h,03Eh,006h,066h,03Ch,000h
+font_hud_digits:
+font_time_first:
+font_time_middle:
+font_time_last:
+ db 0FFh,000h,000h,000h,03Ch,066h,06Eh,076h,066h,066h,03Ch,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,018h,038h,018h,018h,018h,018h,03Ch,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,03Ch,066h,006h,00Ch,018h,032h,07Eh,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,03Ch,066h,006h,01Ch,006h,066h,03Ch,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,01Ch,03Ch,06Ch,0CCh,0FEh,00Ch,01Eh,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,07Eh,062h,060h,07Ch,006h,066h,03Ch,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,03Ch,066h,060h,07Ch,066h,066h,03Ch,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,07Eh,046h,00Ch,00Ch,018h,018h,018h,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,03Ch,066h,066h,03Ch,066h,066h,03Ch,000h,000h,000h,000h,0FFh
+ db 0FFh,000h,000h,000h,03Ch,066h,066h,03Eh,006h,066h,03Ch,000h,000h,000h,000h,0FFh

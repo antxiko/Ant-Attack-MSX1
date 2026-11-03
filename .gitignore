@@ -1,0 +1,10 @@
+JUEBOS/
+build/
+*.z80
+*.rom
+*.omr
+*.bin
+*.sym
+__pycache__/
+*.pyc
+
